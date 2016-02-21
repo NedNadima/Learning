@@ -16,6 +16,9 @@ gem 'coffee-rails', '~> 4.1.0'
 #Adding bootstrap to make things look pretty
 gem 'bootstrap', '~> 4.0.0.alpha3'
 
+#I'm adding devise to create user session
+gem 'devise'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
